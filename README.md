@@ -1,6 +1,6 @@
 # Calculadora em C#
 Projeto (console) de uma calculadora desenvolvida em C#.
-Este projeto permite realizar as 4 principais operações matemáticas (somar, subtrair, mmultiplicar e dividir).
+Este projeto permite realizar as 4 principais operações matemáticas (somar, subtrair, multiplicar e dividir).
 <br />
 <br />
 A operação matemática que se deseja realizar pode ser selecionada através da seleção em um Menu.
